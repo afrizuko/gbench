@@ -4,7 +4,7 @@ A benchmarking tool inspired by ab but written in Go. It's intended to support a
 - http
 - tcp
 - udp
-- file io
+- fs and disk io
 - cpu
 - memory
 
